@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  找素数.cpp
+c:\users\lujiayao\desktop\找素数\找素数\找素数.cpp(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'bool *'
+  找素数.vcxproj -> C:\Users\lujiayao\Desktop\找素数\Debug\找素数.exe
+  找素数.vcxproj -> C:\Users\lujiayao\Desktop\找素数\Debug\找素数.pdb (Full PDB)
